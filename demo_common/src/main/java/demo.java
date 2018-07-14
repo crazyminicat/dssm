@@ -3,5 +3,6 @@ public class demo {
         System.out.println("123");
         System.out.println("123");
         System.out.println("这是什么");
+        System.out.println("这是什么");
     }
 }
